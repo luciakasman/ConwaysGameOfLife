@@ -1,5 +1,7 @@
 # TP1-AyP1
-TP1 Algoritmos y Programación I
+Trabajo Práctico 1 para la materia Algoritmos y Programación I (Cátedra Essaya) de la Facultad de Ingeniería de la Universidad de Buenos Aires.
+
+Cursada el primer cuatrimestre del 2018.
 
 ### TP1 - Game of Life
 El objetivo del trabajo práctico es implementar un simulador para el autómata celular Conway's Game of Life.
